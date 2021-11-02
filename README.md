@@ -51,10 +51,10 @@ snap|1.0.0|否
 
 
 ## CommonUi  包含以下公共库
-- Adapter 工具[BaseQuickAdapter](https:blog.csdn.net/zuo_er_lyf/article/details/79207150)   
+- Adapter 工具[BaseQuickAdapter](https://blog.csdn.net/zuo_er_lyf/article/details/79207150)   
 - banner
 - dialog
-- permission  权限[PermissionX](https:blog.csdn.net/guolin_blog/article/details/106181780/)
+- permission  权限[PermissionX](https://blog.csdn.net/guolin_blog/article/details/106181780/)
 - 宽高比例容器组件  RateXXXLayout
 - 下拉刷新   SmartRefreshView
 - 阴影容器组件  ShadowLayout
